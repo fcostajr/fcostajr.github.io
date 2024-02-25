@@ -2,86 +2,101 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Fernando Vieira Costa Júnior
+    - name: Author name
+      value: Fernando Costa Jr. / F. Costa Jr.
     - name: Languages
-      value: English, German
+      value: French (fluent), English (fluent) and Portuguese (Native)
+
+- title: Professional situation
+  type: time_table
+  contents:
+    - title: Current position
+      institution: Université de Mons, Belgium
+      year: since 2023
+      items:
+        - FNRS Postdocoral Researcher (Chargé de Recherches)
+        - Member of the <a href="https://math.umons.ac.be/prst/fr/">Probability and Statistics Service</a>
+
+    - title: Past positions
+      institution: Avignon Université, France
+      year: 2021 - 2023
+      items:
+        - Temporary assistant professor in <a href="https://math.univ-avignon.fr">Avignon's Mathematics Laboratory</a> (L.M.A.)
+        - Researcher in the group Dynamical Systems and Geometry (SDG)
+        - Analysis and Algebra teacher for first and last year undergrad. students
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Mathematics
+      institution: Université Clermont Auvergne, France
+      year: 2018 - 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - <b>Title:</b> <a href="https://hal.science/tel-03268951/document" target="_blank">Hypercyclic vectors and algebras</a>
+        - <b>Advisor:</b> Frédéric Bayart
+    - title: M.Sc in Mathematics
+      institution: Universidade Federal da Paraíba, Brazil
+      year: 2016 - 2018
       description:
-        - Description 1.
-        - Description 2.
+        - <b>Title:</b> <a href="https://repositorio.ufpb.br/jspui/bitstream/123456789/11235/1/Arquivototal.pdf" target="_blank">A geometria de L(mRn) e aplicações</a>
+        - <b>Advisor:</b> Daniel Pellegrino
+    - title: Lic. in Mathemathics
+      institution: Universidade Federal de Alagoas, Campus Arapiraca, Brazil
+      year: 2012 - 2015
+      description:
+        - <b>Title:</b> <a href="https://ud10.arapiraca.ufal.br/repositorio/publicacoes/1428" target="_blank">Teorias de Integração</a>
+        - <b>Advisor:</b> Ornan Oliveira
 
-- title: Experience
+- title: Scientific responsibilities
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Coordinator of the PEPS project "Linear dynamics of shifts on trees"
+      year: 2023 - 2024
+    - title: Member of the Avignon Mathematics Laboratory's council
+      year: 2021 - 2023
+    - title: Member of the ANR project "<a href="https://front.math.cnrs.fr/contact.html">Frontiers of Operator Theory</a>"
+      year: 2018 - 2022
+    - title: Reviewer for MathSciNet
+      year: since 2023
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
+- title: Visits
+  type: list
   contents:
-    - title: <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>
-      year: 2023-now
-      description: A fork of al-folio theme with support for multiple languages.
+    - Arafat
+    - Antoni
 
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
+- title: Talks
+  type: nested_list
   contents:
-    - year: 1921
+    - title: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Descrição 1.
+        - Descrição 2.
+    - title: 2023
       items:
-        - Max Planck Medal
+        - Descrição 1.
+        - Descrição 2.
+    - title: 2022
+      items:
+        - Descrição 1.
+        - Descrição 2.
+    - title: 2021
+      items:
+        - Descrição 1.
+        - Descrição 2.
+    - title: 2020
+      items:
+        - Descrição 1.
+        - Descrição 2.
+    - title: 2019
+      items:
+        - Descrição 1.
+        - Descrição 2.
+    - title: 2018
+      items:
+        - Descrição 1.
+        - Descrição 2.
 
 - title: Academic Interests
   type: nested_list

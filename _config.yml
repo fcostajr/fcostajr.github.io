@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Fernando's Page # the website title (if blank, full name will be used instead)
+title: Fernando Costa Jr. # the website title (if blank, full name will be used instead)
 first_name: Fernando
 middle_name: V.
 last_name: Costa Jr.
-email: fv.costajunior@gmail.com
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+email: fernando.vieiracostajunior@umons.ac.be
+keywords: Linear Dynamics, Hypercyclic Algebras, Operator Theory, Hypercyclicity, Fractals, Common Hypercyclicity, Frequent Hypercyclicity, Recurrence, Backward Shifts, Algebrability, Lineability, Fréchet Spaces, F-Spaces, Banach Spaces # add your own keywords or leave empty
+icon: favicon.png # ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://fcostajr.github.io # the base hostname & protocol for your site
 baseurl: # /multi-language-al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -60,20 +60,20 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: fcostajr # your GitHub user name
 gitlab_username: # your GitLab user name
 x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+scholar_userid: -fNV5ckAAAAJ&hl # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: # your ORCID ID
+orcid_id: 0000-0001-6700-6341 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-lattes_id: # your ID on Lattes (Brazilian Lattes CV)
+lattes_id: 3900408038060492 # your ID on Lattes (Brazilian Lattes CV)
 osf_id: # your OSF ID
 research_gate_profile: # your profile on ResearchGate
 scopus_id: # your profile on Scopus
@@ -90,7 +90,7 @@ spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
 instagram_id: # your instagram id
-facebook_id: # your facebook id
+facebook_id: FernandoVCJr # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
@@ -127,8 +127,8 @@ related_blog_posts:
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
-  repo: george-gca/multi-language-al-folio # <your-github-user-name>/<your-github-repo-name>
-  repo_id: R_kgDOI6hBvA # leave empty or specify your repo_id (see https://giscus.app/)
+  repo: fcostajr/fcostajr.github.io # <your-github-user-name>/<your-github-repo-name>
+  repo_id: 763172165 # leave empty or specify your repo_id (see https://giscus.app/)
   category: Comments # name of the category under which discussions will be created
   category_id: DIC_kwDOI6hBvM4CYHn3 # leave empty or specify your category_id (see https://giscus.app/)
   mapping: title # identify discussions by post title
@@ -334,7 +334,7 @@ languages: ["en-us", "pt-br"]
 default_lang: "en-us"
 exclude_from_localization: ["assets"]
 lang_from_path: true
-country_flag: false # set true for allowing flag symbol in language toggle
+country_flag: true # set true for allowing flag symbol in language toggle
 parallel_localization: false
 
 # -----------------------------------------------------------------------------

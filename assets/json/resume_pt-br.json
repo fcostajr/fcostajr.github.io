@@ -1,3 +1,4 @@
+{REMOVE},,
 {
   "basics": {
     "name": "Albert Einstein",
@@ -31,6 +32,15 @@
       "endDate": "1955-01-01",
       "summary": "Ensino no Palmer Physical Laboratory (agora 302 Frist Campus Center). Embora não seja professor em Princeton, associei-me aos professores de física e continuei a dar palestras no campus.",
       "highlights": ["Relatividade"]
+    },
+    {
+        "name": "Instituto de Estudos Avançados, Universidade de Princeton",
+        "position": "Professor de Física Teórica",
+        "url": "https://example.com",
+        "startDate": "1933-01-01",
+        "endDate": "1955-01-01",
+        "summary": "Ensino no Palmer Physical Laboratory (agora 302 Frist Campus Center). Embora não seja professor em Princeton, associei-me aos professores de física e continuei a dar palestras no campus.",
+        "highlights": ["Relatividade"]
     }
   ],
   "volunteer": [
