@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I got an associate professor position at the Universidade Federal da Paraíba! I'm soon joining the Functional Analysis group of the Mathematics Department, couldn't be more happy :smile:
+I got an associate professor position at the Universidade Federal da Paraíba! I'm soon joining the Functional Analysis group of the Mathematics Department, couldn't be more happy :smile: :smile: :smile:
