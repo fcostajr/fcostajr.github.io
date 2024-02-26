@@ -2,11 +2,11 @@
 page_id: cv
 layout: cv
 permalink: /cv/
-title: cv
+title: Curriculum Vitæ
 nav: true
-nav_order: 5
-cv_pdf: example_pdf.pdf
-description: Esta é uma descrição da página. Você pode modificá-la em '_pages/cv.md'. Também pode alterar ou remover o botão no topo de download de pdf.
+nav_order: 2
+cv_pdf: Fernando-CV.pdf
+description: Obs.&#58; o cv anexado em pdf está desatualizado!
 toc:
   sidebar: left
 ---

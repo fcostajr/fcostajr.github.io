@@ -2,10 +2,10 @@
 page_id: publications
 layout: page
 permalink: /publications/
-title: publicações
-description: publicações por categoria em ordem cronológica reversa. gerado pelo jekyll-scholar.
+title: Publicações
+description: Publicações organizadas por ordem cronológica reversa. O botão "ABS" mostra o resumo correspondente.
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <!-- _pages/publications.md -->

@@ -7,7 +7,7 @@ subtitle: <a href='https://math.umons.ac.be/ps/fr/#:~:text=Le%20service%20assure
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_color.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Université de Mons</p>
@@ -15,7 +15,7 @@ profile:
     <p>Mons 7000, Belgium</p>
 
 news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
+latest_posts: false ### ATIVAR DEPOIS??? ### # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---

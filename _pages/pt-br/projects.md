@@ -4,8 +4,8 @@ layout: page
 title: projetos
 permalink: /projects/
 description: Uma crescente coleção de seus projetos interessantes.
-nav: true
-nav_order: 3
+nav: false #### ATIVAR DEPOIS ####
+nav_order: 13
 display_categories: [work, fun]
 horizontal: false
 ---

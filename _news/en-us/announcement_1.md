@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-01-22 08:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I got an associate professor position at the Universidade Federal da Paraíba! I'm soon joining the Functional Analysis group of the Mathematics Department, couldn't be more happy :smile: :smile: :smile:

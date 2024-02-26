@@ -4,8 +4,8 @@ layout: profiles
 permalink: /people/
 title: membros
 description: membros do grupo de pesquisa ou laboratório
-nav: true
-nav_order: 7
+nav: false
+nav_order: 12
 
 profiles:
   # if you want to include more than one profile, just replicate the following block

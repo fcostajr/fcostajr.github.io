@@ -3,15 +3,12 @@ blog:
 categories:
   fun: diversão
   work: trabalho
-contact_note: Você pode até adicionar uma pequena observação sobre qual dessas é a melhor maneira de entrar em contato com você.
+contact_note: A maneira mais efetiva de me contactar é através do email fv [ponto] costajunior [arroba] gmail [ponto] com
 footer_text: > # the ">" symbol means to ignore newlines until "titles:"
-  Desenvolvido em <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> com o tema <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>.
-  Hospedado por <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Fotos do <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 latest_posts: últimas postagens
 news: novidades
 selected_publications: publicações selecionadas
-site_description: Um tema simples para acadêmicos. Baseado no design do [*folio](https://github.com/bogoli/-folio).
+site_description: Página pessoal do Fernando
 archive_category: um arquivo de postagens desta categoria
 archive_tag: um arquivo de postagens com este marcador
 archive_year: um arquivo de postagens deste ano

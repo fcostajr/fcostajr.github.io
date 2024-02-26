@@ -2,9 +2,9 @@
 id: dropdown
 layout: page
 title: submenus
-nav: true
-nav_order: 8
-dropdown: true
+nav: false
+nav_order: 11
+dropdown: false
 children:
   - title: publicações
     permalink: /publications/

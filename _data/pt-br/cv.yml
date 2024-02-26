@@ -5,6 +5,8 @@
       value: Fernando Vieira Costa Júnior
     - name: Nome de autor
       value: Fernando Costa Jr. / F. Costa Jr.
+    - name: Email
+      value: <a href="mailto:Fernando.VIEIRACOSTAJUNIOR@umons.ac.be">Fernando.VIEIRACOSTAJUNIOR@umons.ac.be</a>
     - name: Idiomas
       value: Francês (fluente), Inglês (fluente), Português (nativo)
 
@@ -22,8 +24,8 @@
       institution: Avignon Université, França
       year: 2021 - 2023
       items:
-        - Professor pesquisador temporário do <a href="https://math.univ-avignon.fr">Laboratório de Matemática de Avignon</a> (L.M.A.)
-        - Membro do grupo Sistemas Dinämicos e Geometria (SDG)
+        - Professor pesquisador temporário do <a href="https://math.univ-avignon.fr">Laboratoire de Mathématiques d'Avignon</a> (L.M.A.)
+        - Membro do grupo Systèmes Dynamiques et Géométrie (SDG)
         - Professor de Análise e Álgebra para alunos de primeiro e último ano da graduação
 
 - title: Educação
@@ -55,7 +57,7 @@
       year: 2023 - 2024
     - title: Mebro do conselho do Laboratório de Matemática de Avignon
       year: 2021 - 2023
-    - title: Membro do projeto ANR "<a href="https://front.math.cnrs.fr/contact.html">Fronteira das Teoria de Operadores</a>"
+    - title: Membro do projeto ANR "<a href="https://front.math.cnrs.fr/contact.html">Frontiers of Operator Theory</a>"
       year: 2018 - 2022
     - title: Revisor do MathSciNet
       year: since 2023
@@ -63,54 +65,59 @@
 - title: Visitas
   type: list
   contents:
-    - Arafat
-    - Antoni
+    - Pesquisador visitante, Fevereiro de 2024, Universitat Politècnica, València, Espanha
+    - Pesquisador visitante, Junho de 2023, École Nationale Supérieure d’Ingénieurs de Bretagne Sud, Vannes, França
 
-- title: Palestras
+- title: Palestras e mini-cursos
   type: nested_list
   contents:
-    - title: 2024
+    - title: Congressos internacionais
       items:
-        - Descrição 1.
-        - Descrição 2.
-    - title: 2023
+        - (June 2023) <a href="/talks/2023_Talk_Grece_ACOTCA.pdf" target="_blank"><b>Fractals and common hypercyclicity</b></a>, Advanced Courses in Operator Theory and Complex Analysis 2023, Aristotle University of Thessaloniki, Grécia
+        - (June 2023) <a href="/talks/2023_Talk_Italy_45th_SSRA.pdf" target="_blank"><b>Self-similar fractals and common hypercyclicity</b></a>, 45th Summer Symposium in Real Analysis, Università degli Studi della Campania "L. Vanvitelli", Caserta, Itália
+        - (June 2023) <a href="/talks/2023_Talk_Mons_Meeting_FA.pdf" target="_blank"><b>Self-similar fractals and common hypercyclicity</b></a>, Annual meetings of the FNRS group - Functional Analysis, Université de Mons, Mons, Bélgica
+        - (December 2021) <a href="/talks/2021_Poster_FTO-FCostaJr.pdf" target="_blank"><b>Hypercyclic algebras&#58; what we do and do not know</b></a>, Frontier of Operator Theory, CIRM, Marselha, França (Pôster)
+        - (June 2019) <a href="/talks/2019_Talk-ACOTCA-FCostaJr.pdf" target="_blank"><b>Common Hypercyclic Algebras</b></a>, Advanced Courses in Operator Theory and Complex Analysis 2019, Université Gustave Eiffel, Champs-sur-Marne, França
+    - title: Seminários de matemática
       items:
-        - Descrição 1.
-        - Descrição 2.
-    - title: 2022
+        - (October 2023) <a href="/talks/2023_Talk-ADA-Calais-October.pdf" target="_blank"><b>Introduction aux algèbres hypercycliques</b></a>, Algèbre, Dynamique et Arithmétique Seminar, Laboratory of pure and applied mathematics Joseph Liouville, Université du Littoral Côte d'Opale, Calais, França
+        - (October 2023) <a href="/talks/2023_Talk-AF-Lille-October.pdf" target="_blank"><b>Hypercyclicité simultannée en 2D</b></a>, Functional Analysis Seminar, Paul Painlévé Mathematics Laboratory, Université de Lille, Lille, França
+        - (September 2022) <a href="/talks/2022_Expose-CMI.pdf" target="_blank"><b>Common hypercyclicity in several dimensions</b></a>, Séminaire d’Analyse et Géométrie, Institut de Mathématiques de Marseille, Aix-Marseille Université, Marselha, França
+        - (June 2022) <a href="/talks/2022_Expose-Rauzy.pdf" target="_blank"><b>The origins of Linear Dynamics</b></a>, Rauzy Seminar (FRUMAM), Institut de Mathématiques de Marseille, Aix-Marseille Université, Marselha, França
+        - (Novembre 2021) <a href="/talks/2021_Talk-Seminaire-Lille-2-FCostaJr.pdf" target="_blank"><b>À la recherche d’une algèbre hypercyclique fermée</b></a>, Functional Analysis Seminar, Paul Painlévé Mathematics Laboratory, Université de Lille, Lille, França
+        - (Novembre 2021) <a href="/talks/2021_Talk-Seminaire-LMA-FCostaJr.pdf" target="_blank"><b>Vecteurs et algèbres hypercycliques</b></a>, Systèmes Dynamiques et Géométrie Seminar, Laboratoire de Mathématiques d'Avignon, Avignon Université, Avinhão, França
+        - (June 2021) <a href="/talks/2021_Talk-Seminaire-Lille-1-FCostaJr.pdf" target="_blank"><b>Convolution operators supporting hypercyclic algebras</b></a>, Functional Analysis Seminar, Paul Painlévé Mathematics Laboratory, Université de Lille, Lille, França
+        - (April 2019) <a href="/talks/2019_Talk-Seminaires-des-Doctorants-LMBP-FCostaJr.pdf" target="_blank"><b>Une exposition de l'hypercyclicité</b></a>, Doctorate students seminar, Laboratoire de Mathématiques Blaise Pascal, Université Clermont-Auvergne, Clermont-FD, França
+    - title: Mini-cursos
       items:
-        - Descrição 1.
-        - Descrição 2.
-    - title: 2021
+        - (August 2015) "Sistemas axiomáticos formais e aplicações", II EMAAL, UFAL Arapiraca, Brasil <br> (<a href="/talks/minicursos/sistemas-ax/Minicurso-de-logica-matematica.pdf" target="_blank"><b>Notas de Aula</b></a>) (<a href="/talks/minicursos/sistemas-ax/Minicurso-de-logica-matematica-slides.pdf" target="_blank"><b>Slides</b></a>)
+        - (August 2015) "Teoria dos números e a lei de reciprocidade quadrática", III Colóquio de Matemática da Região Norte (SBM), UFAM, Manaus, Brasil <br> (<a href="/talks/minicursos/lei-recipro/Teoria-dos-Numeros-e-a-Lei-de-Reciprocidade-Quadratica.pdf" target="_blank"><b>Notas de aula</b></a>) (<a href="/talks/minicursos/lei-recipro/Teoria-dos-Numeros-e-a-Lei-de-Reciprocidade-Quadratica-slides.pdf" target="_blank"><b>Slides</b></a>)
+    - title: Divulgação científica
       items:
-        - Descrição 1.
-        - Descrição 2.
-    - title: 2020
-      items:
-        - Descrição 1.
-        - Descrição 2.
-    - title: 2019
-      items:
-        - Descrição 1.
-        - Descrição 2.
-    - title: 2018
-      items:
-        - Descrição 1.
-        - Descrição 2.
+        - (Junho 2019) "Le travail d'un mathematician, comment se passe-t-il ?", Centre FLEURA, Université Clermont-Auvergne, Clermont-FD, França
 
 - title: Interesses Acadêmicos
   type: nested_list
   contents:
-    - title: Tópico 1.
+    - title: Dinâmica linear
       items:
-        - Descrição 1.
-        - Descrição 2.
-    - title: Tópico 2.
+        - hiperciclicidade, hiperciclicidade comum/\(U\)-frequente/frequente/disjunta, álgebras hipercíclicas
+        - Recorrência, álgebras recorrentes
+    - title: constantes de Bohnenblust-Hille
       items:
-        - Descrição 1.
-        - Descrição 2.
+        - Cálculo de constantes truncadas usando o computador
+        - Comportamento assintótico via métodos de interpolação
+    - title: Lineabilidade, espaçabilidade, algebrabilidade
+      items:
+        - Algebrabilidade do conjunto de vetores hipercíclicos/recorrentes
+        - \((\alpha,\beta)\)-lineabilidade e noções mais gerais
+
+- title: Publicações
+  type: list
+  contents:
+    - Acesse a página <a href="/pt-br/publications/">Publicações</a>
 
 - title: Outros Interesses
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <b>Hobbies&#58;</b> guitarra, violão, dark souls, cavaco/banjo, batucada, dark souls, trilha, corrida, dark souls, escalada, natação, etc... Eu também gosto de dark souls.
