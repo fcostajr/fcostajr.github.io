@@ -6,4 +6,4 @@ related_posts: false
 
 ---
 
-My FNRS project was accepted! I'm soon gonna be joining the Mathematics Department of the Université de Mons, and for :sparkles: three freaking years!!! ✨ Excited to start working with Quentin Menet and Karl Grosse-Erdmann.
+My FNRS project was accepted! I'm soon gonna be joining the Mathematics Department of the Université de Mons, and for :sparkles: <b>three freaking years!!!</b> ✨ Excited to start working with Quentin Menet and Karl Grosse-Erdmann.
