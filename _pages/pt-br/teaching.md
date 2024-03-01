@@ -1,13 +1,28 @@
 ---
 page_id: teaching
 layout: page
+title: Teaching
 permalink: /teaching/
-title: ensino
-description: Materiais de cursos que você ministrou. Substitua esse texto com sua descrição.
-nav: false #### ATIVAR DEPOIS ####
-nav_order: 3
+description: Materiais das disciplinas que estou ministrando ou que já ministrei (apenas disponível na língua de origem).
+nav: true #### ATIVAR DEPOIS ####
+nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<h4>Disciplinas anteriores a 2024</h4>
 
-Organize your courses by years, topics, or universities, however you like!
+Avignon Université (2021 - 2023)
+<ul>
+<li>Maths II Physique/Chimie <a href="/teachings/avignon/maths-ii-2022/main"> 2022</a>, <a href="/teachings/avignon/maths-ii-2023/main"> 2023</a></li>
+<li>Algèbre 2 <a href="/teachings/avignon/algebre-2-2022/main"> 2022</a>, <a href="/teachings/avignon/algebre-2-2023/main"> 2023</a></li>
+<li>Analyse 2 <a href="/teachings/avignon/analyse-2-2023/main"> 2023</a></li>
+<li>Analyse 1 <a href="/teachings/avignon/analyse-1-2021/main"> 2021</a>, <a href="/teachings/avignon/analyse-1-2022/main"> 2022</a></li>
+<li>Algèbre générale 1  <a href="/teachings/avignon/algebre-generale-1-2021/main"> 2021</a></li>
+<li>Mathématiques pour l'enseignement primaire <a href="/teachings/avignon/mathematiques-pour-lens/main"> 2021/2022</a></li>
+<li>Methodologie <a href="/teachings/avignon/methodologie/main"> 2021/2022</a></li>
+</ul>
+
+Université Clermont Auvergne (2018 - 2021)
+<ul>
+<li>Tronc Commun en Mathématiques <a href="/teachings/clermont/tcm/main"> 2019/2020</a> </li>
+<li>Mathématiques appliqués aux autres sciences <a href="/teachings/clermont/maas/main"> 2020/2021</a></li>
+</ul>

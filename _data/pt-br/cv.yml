@@ -99,11 +99,11 @@
 - title: Interesses Acadêmicos
   type: nested_list
   contents:
-    - title: Dinâmica linear
+    - title: Sistemas Dinâmicos Lineares (Teoria de Operadores)
       items:
-        - hiperciclicidade, hiperciclicidade comum/\(U\)-frequente/frequente/disjunta, álgebras hipercíclicas
+        - Hiperciclicidade, hiperciclicidade comum/\(U\)-frequente/frequente/disjunta, álgebras hipercíclicas
         - Recorrência, álgebras recorrentes
-    - title: constantes de Bohnenblust-Hille
+    - title: Constantes de Bohnenblust-Hille
       items:
         - Cálculo de constantes truncadas usando o computador
         - Comportamento assintótico via métodos de interpolação

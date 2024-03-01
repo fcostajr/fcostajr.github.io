@@ -3,8 +3,8 @@ blog:
 categories:
   fun: fun
   work: work
-contact_note: The most effective way of reaching me is through my mail fv [dot] costajunior [at] gmail [dot] com
-footer_text: > # the ">" symbol means to ignore newlines until "titles:"
+contact_note: # The most effective way of reaching me is through my mail fv [dot] costajunior [at] gmail [dot] com
+footer_text: # > # the ">" symbol means to ignore newlines until "titles:"
 latest_posts: latest posts
 news: news
 selected_publications: selected publications

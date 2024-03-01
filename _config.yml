@@ -8,7 +8,7 @@ middle_name: V.
 last_name: Costa Jr.
 email: fernando.vieiracostajunior@umons.ac.be
 keywords: Linear Dynamics, Hypercyclic Algebras, Operator Theory, Hypercyclicity, Fractals, Common Hypercyclicity, Frequent Hypercyclicity, Recurrence, Backward Shifts, Algebrability, Lineability, Fréchet Spaces, F-Spaces, Banach Spaces # add your own keywords or leave empty
-icon: favicon.png # ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon.png ## praise-the-sun.png # ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://fcostajr.github.io # the base hostname & protocol for your site
 baseurl: # /multi-language-al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -40,7 +40,7 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 930px
@@ -90,7 +90,7 @@ spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
 instagram_id: # your instagram id
-facebook_id: FernandoVCJr # your facebook id
+facebook_id: ## FernandoVCJr # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
@@ -344,7 +344,7 @@ parallel_localization: false
 # MAKE SURE imagemagick is installed and on your PATH before enabling imagemagick. In a terminal, run:
 #   convert -version
 imagemagick:
-  enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
+  enabled: false # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
   widths:
     - 480
     - 800

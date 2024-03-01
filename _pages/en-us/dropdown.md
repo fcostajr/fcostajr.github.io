@@ -4,7 +4,7 @@ layout: page
 title: submenus
 nav: false
 nav_order: 11
-dropdown: true
+dropdown: false
 children:
   - title: publications
     permalink: /publications/

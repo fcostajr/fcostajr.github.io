@@ -1,9 +1,9 @@
 ---
 page_id: about
 layout: about
-title: início
+title: Início
 permalink: /
-subtitle: <a href='https://math.umons.ac.be/ps/fr/#:~:text=Le%20service%20assure%20les%20cours,du%20master%20en%20sciences%20mathématiques.'>Service de Probabilités et Statistique</a>. Université de Mons, Département de Mathématique.
+subtitle: ## <a href='https://math.umons.ac.be/ps/fr/#:~:text=Le%20service%20assure%20les%20cours,du%20master%20en%20sciences%20mathématiques.'>Service de Probabilités et Statistique</a>. Université de Mons, Département de Mathématique.
 
 profile:
   align: right
@@ -11,6 +11,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Université de Mons</p>
+    <p><a href="https://math.umons.ac.be/fr/" target="_blank">Département de Mathématique</a></p>
     <p>20 Place du Parc</p>
     <p>Mons 7000, Bélgica</p>
 
@@ -27,3 +28,5 @@ Embora formado com êfase em Análise, possuo uma simpatia particular pela Álge
 Meu principal tema de pesquisa é a Dinâmica Linear e a Teoria de Operadores. Eu me interesso também à implementação de algoritmos de otimização em Mathematica e em Python.
 
 Atualmente, sou pós-doutorando no Laboratório de Matemática da Universidade de Mons, Bélgica.
+
+Você pode me contactar pelo email <a href="mailto:fernando.vieiracostajunior@umons.ac.be"><i>fernando.vieiracostajunior@umons.ac.be</i></a>, a não ser que precise de uma resposta rápida. Nesse caso, é melhor escrever para meu email pessoal: <it>fv [dot] costajunior [at] gmail [dot] com</it>.

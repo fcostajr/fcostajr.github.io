@@ -5,7 +5,7 @@ title: projetos
 permalink: /projects/
 description: Uma crescente coleção de seus projetos interessantes.
 nav: false #### ATIVAR DEPOIS ####
-nav_order: 13
+nav_order: 5
 display_categories: [work, fun]
 horizontal: false
 ---

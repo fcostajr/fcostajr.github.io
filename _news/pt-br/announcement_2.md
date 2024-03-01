@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Meu projeto FNRS foi aprovado! Em breve serei membro do departamento de matemática da Université de Mons, e por :sparkles: <b><i>três anos!!!</i></b> :sparkles:. Empolgado para começar a trabalhar com Quentin Menet e Karl Grosse-Erdmann.
+Meu projeto FNRS foi aprovado! Em breve serei membro do <a href="https://math.umons.ac.be/fr/" target="_blank">departamento de matemática</a> da Université de Mons, e por :sparkles: <b>três anos!!!</b> :sparkles:. Empolgado para começar a trabalhar com Quentin Menet e Karl Grosse-Erdmann.
