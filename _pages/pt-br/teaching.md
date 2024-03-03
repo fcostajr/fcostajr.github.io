@@ -1,7 +1,7 @@
 ---
 page_id: teaching
 layout: page
-title: Teaching
+title: Ensino
 permalink: /teaching/
 description: Materiais das disciplinas que estou ministrando ou que já ministrei (apenas disponível na língua de origem).
 nav: true #### ATIVAR DEPOIS ####
