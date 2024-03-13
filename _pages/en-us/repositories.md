@@ -1,9 +1,9 @@
 ---
-page_id: repositories
+page_id: more-about-me
 layout: page
-permalink: /repositories/
-title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+permalink: /more-about-me/
+title: More about me
+description:
 nav: false
 nav_order: 14
 ---

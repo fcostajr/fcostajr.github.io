@@ -2,8 +2,8 @@
 page_id: profiles
 layout: profiles
 permalink: /people/
-title: people
-description: members of the lab or group
+title: Members
+description: Functional Analysis group members of the DM-UFPB
 nav: false
 nav_order: 12
 

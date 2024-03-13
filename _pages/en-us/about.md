@@ -10,10 +10,11 @@ profile:
   image: prof_pic_color.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Université de Mons</p>
-    <p><a href="https://math.umons.ac.be/fr/" target="_blank">Département de Mathématique</a></p>
-    <p>20 Place du Parc</p>
-    <p>Mons 7000, Bélgica</p>
+    <p>Universidade Federal da Paraíba - Campus I</p>
+    <p><a href="http://www.mat.ufpb.br/dm/" target="_blank">Departamento de Matemática</a></p>
+    <p>Jardim Universitário, s/n</p>
+    <p>Bairro Castelo Branco</p>
+    <p>CEP 58051-900</p> <p>João Pessoa, Brasil</p>
 
 news: true # includes a list of news items
 latest_posts: false ### ATIVAR DEPOIS??? ### # includes a list of the newest posts

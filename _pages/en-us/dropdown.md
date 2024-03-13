@@ -1,17 +1,23 @@
 ---
 id: dropdown
 layout: page
-title: submenus
+title: More
 nav: false
 nav_order: 11
-dropdown: false
+dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: Group members
+    permalink: /people/
   - title: divider
-  - title: projects
-    permalink: /projects/
-  - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: More about me
+    permalink: /more-about-me/
+  ##- title: divider
+  ##- title: publications
+  ##  permalink: /publications/
+  ##- title: divider
+  ##- title: projects
+  ##  permalink: /projects/
+  ##- title: divider
+  ##- title: blog
+  ##  permalink: /blog/
 ---

@@ -2,8 +2,8 @@
 page_id: profiles
 layout: profiles
 permalink: /people/
-title: membros
-description: membros do grupo de pesquisa ou laboratório
+title: Membros (Em construção)
+description: Membros do grupo de Análise Funcional do DM-UFPB
 nav: false
 nav_order: 12
 
