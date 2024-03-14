@@ -6,4 +6,4 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 -->
 
-Graduate at Licenciatura em Matemática from Universidade Federal da Paraíba (2006), graduate at Bacharelado em Matemática from Universidade Federal da Paraíba (2007) and master's at Mathematics from Universidade Federal da Paraíba (2008). Has experience in Mathematics, focusing on non-linear functional analysis.
+Lic. (2006), B.A. (2007), M.Sc (2008) and Ph.D. (2011) in Mathematics at Federal University of Praíba (UFPB). He is currently Associate Professor at UFPB. Has experience in Mathematics, focusing on Functional Analysis.Has experience in Mathematics, focusing on non-linear functional analysis and multiple summing operators.
