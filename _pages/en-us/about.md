@@ -24,10 +24,8 @@ social: true # includes social icons at the bottom of the page
 
 Hi! I'm Fernando Vieira Costa Júnior, a Mathematician from Brazil :smile:
 
-Formed with focus on Analysis, I have a particular sympathy for Algebra, Number Theory and Logic. Teaching for me is a passion ! In this page I talk a bit about myself and about my job. My students will find here support material for my courses.
+Formed with focus on Analysis, I have a particular sympathy for Algebra, Number Theory and Logic. Teaching for me is a passion! In this page I talk a bit about myself and about my job. My students will find here support material for my courses.
 
-My main research interest is that of Linear Dynamics and Operator Theory. I am also interested in the implementation of mathematical algorithms on Mathematica and Python.
-
-At the moment I am a FNRS postdoctoral researcher at the Mathematics Department of the University of Mons.
+I am currently an associate professor at the Mathematics Department of the Federal Universirty of Paraíba in Brazil. I am also a FNRS postdoctoral researcher at the Mathematics Department of the University of Mons in Belgium. My main research topic is that of Linear Dynamics in Operator Theory. I am also interested in the implementation of mathematical algorithms on Mathematica and Python.
 
 You can contact me through the email <a href="mailto:fernando.vieiracostajunior@umons.ac.be"><i>fernando.vieiracostajunior@umons.ac.be</i></a>, although, shall you need a quick response, it is best to write to my personal email <it>fv [dot] costajunior [at] gmail [dot] com</it>.
