@@ -19,7 +19,7 @@ nav_order: 14
     Upper view of Palmeira dos Índios city, including the Goiti Christ, some kind of "mini Christ the Redeemer".
 </div>
 
-This is the small town I was born in. But I've lived in there for no more than a couple of days ! At that time my family had a peculiar tradition : every childbirth was made by my À l'époque ma famille avait une tradition : tous les accouchements étaient faits par mon uncle and obstetrician Dr. Wilson Vieira Costa, his clinic is located in this small town, 45km away from my parents house. In this picture one can see the Goiti's Christ, a kind of "mini Christ the Redeemer" statue.
+This is the small town I was born in. But I've lived in there for no more than a couple of days! At that time my family had a peculiar tradition: every childbirth was made by my uncle and obstetrician Dr. Wilson Vieira Costa, his clinic is located in this small town, 45km away from my parents house. In this picture one can see the Goiti's Christ, a kind of "mini Christ the Redeemer" statue.
 
 ## High School
 
