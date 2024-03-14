@@ -2,7 +2,7 @@
 id: dropdown
 layout: page
 title: More
-nav: false
+nav: true
 nav_order: 11
 dropdown: true
 children:

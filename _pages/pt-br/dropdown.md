@@ -2,7 +2,7 @@
 id: dropdown
 layout: page
 title: Mais
-nav: false
+nav: true
 nav_order: 11
 dropdown: true
 children:
@@ -10,7 +10,7 @@ children:
     permalink: /people/
   - title: divider
   - title: Mais sobre mim
-    permalink: /mais-sobre-mim/
+    permalink: /more-about-me/
   ##- title: divider
   ##- title: projetos
   ##  permalink: /projects/
