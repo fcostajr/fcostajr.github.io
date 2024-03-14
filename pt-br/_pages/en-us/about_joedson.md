@@ -6,4 +6,4 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 -->
 
-Lic. (2006), B.A. (2007), M.Sc (2008) and Ph.D. (2011) in Mathematics at Federal University of Praíba (UFPB). He is currently Associate Professor at UFPB. Has experience in Mathematics, focusing on Functional Analysis.Has experience in Mathematics, focusing on non-linear functional analysis and multiple summing operators.
+Lic. (2006), B.A. (2007), M.Sc (2008) and Ph.D. (2011) in Mathematics at Federal University of Praíba (UFPB). He is currently Associate Professor at UFPB.Has experience in Mathematics, focusing on non-linear functional analysis and multiple summing operators.
