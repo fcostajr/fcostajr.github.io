@@ -14,14 +14,20 @@
   type: time_table
   contents:
     - title: Current position
-      institution: Université de Mons, Belgium
+      institution: Federal University of Paraíba, Brazil
+      year: since 2024
+      items:
+        - Associate professor at the Mathematics Department (DM-UFPB)
+        ## - Member of the <a href="https://math.umons.ac.be/prst/fr/">Probability and Statistics Service</a>
+    - title: Current position
+      institution: University of Mons, Belgium
       year: since 2023
       items:
         - FNRS Postdocoral Researcher (Chargé de Recherches)
         - Member of the <a href="https://math.umons.ac.be/prst/fr/">Probability and Statistics Service</a>
 
     - title: Past positions
-      institution: Avignon Université, France
+      institution: Avignon University, France
       year: 2021 - 2023
       items:
         - Temporary assistant professor in <a href="https://math.univ-avignon.fr">Avignon's Mathematics Laboratory</a> (L.M.A.)
@@ -32,19 +38,19 @@
   type: time_table
   contents:
     - title: Ph.D. in Mathematics
-      institution: Université Clermont Auvergne, France
+      institution: Clermont Auvergne University, France
       year: 2018 - 2021
       description:
         - <b>Title:</b> <a href="https://hal.science/tel-03268951/document" target="_blank">Hypercyclic vectors and algebras</a>
         - <b>Advisor:</b> Frédéric Bayart
     - title: M.Sc in Mathematics
-      institution: Universidade Federal da Paraíba, Brazil
+      institution: Federal University of Paraíba, Brazil
       year: 2016 - 2018
       description:
         - <b>Title:</b> <a href="https://repositorio.ufpb.br/jspui/bitstream/123456789/11235/1/Arquivototal.pdf" target="_blank">A geometria de L(mRn) e aplicações</a>
         - <b>Advisor:</b> Daniel Pellegrino
     - title: Lic. in Mathemathics
-      institution: Universidade Federal de Alagoas, Campus Arapiraca, Brazil
+      institution: Federal University of Alagoas, Campus Arapiraca, Brazil
       year: 2012 - 2015
       description:
         - <b>Title:</b> <a href="https://ud10.arapiraca.ufal.br/repositorio/publicacoes/1428" target="_blank">Teorias de Integração</a>

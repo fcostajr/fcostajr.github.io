@@ -14,14 +14,20 @@
   type: time_table
   contents:
     - title: Posição atual
-      institution: Université de Mons, Bélgica
+      institution: Universidade Federal da Paraíba, Brasil
+      year: 2024 - presente
+      items:
+        - Professor adjunto do Departamento de Matemática
+        ##- Membro do <a href="https://math.umons.ac.be/prst/fr/">Service de Probabilités et Statistique</a>
+    - title: Posição atual
+      institution: Universidade de Mons, Bélgica
       year: 2023 - presente
       items:
         - Pesquisador posdoutoral FNRS (Chargé de Recherches)
         - Membro do <a href="https://math.umons.ac.be/prst/fr/">Service de Probabilités et Statistique</a>
 
     - title: Posições anteriores
-      institution: Avignon Université, França
+      institution: Universidade de Avignon, França
       year: 2021 - 2023
       items:
         - Professor pesquisador temporário do <a href="https://math.univ-avignon.fr">Laboratoire de Mathématiques d'Avignon</a> (L.M.A.)
@@ -32,7 +38,7 @@
   type: time_table
   contents:
     - title: Doutorado em Matemática
-      institution: Université Clermont Auvergne, França
+      institution: Universidade Clermont Auvergne, França
       year: 2018 - 2021
       description:
         - <b>Título:</b> <a href="https://hal.science/tel-03268951/document" target="_blank">Hypercyclic vectors and algebras</a>
